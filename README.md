@@ -3,6 +3,13 @@
 I found the following Github repository ([certification symfony](https://github.com/efficience-it/certification-symfony)) containing questions to prepare for the Symfony certificate exam in Yaml-format. This Python script provides a user-friendly interface to practice the quiz.
 
 ## Screenshots
+Topic selection
+<img width="1259" alt="symfony-quiz-tool-2" src="https://github.com/user-attachments/assets/608e3857-7025-4f71-9248-6e6dcdc60217" />
+
+Q & A + Results
+<img width="1265" alt="symfony-quiz-tool-1" src="https://github.com/user-attachments/assets/940e56ac-8dd7-443e-b4c6-25e44b805c99" />
+
+
 
 ## Technical specifications
 - Python 3.13.0
