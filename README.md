@@ -43,5 +43,10 @@ pip3 install prettytable
 python3 main.py
 ```
 
+## Usage
+```
+python3 main.py
+```
+
 ## TODO
 - Implement feedback: https://codereview.stackexchange.com/questions/294718/quiz-interface-based-on-yaml-files-python
